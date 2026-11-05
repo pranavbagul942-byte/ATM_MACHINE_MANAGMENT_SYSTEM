@@ -1,0 +1,6 @@
+ATM DEMO ACCOUNT CREDENTIALS
+Keep this file private. These are demo credentials only.
+
+Account: 1002 | Name: Sanika Kharate | Initial PIN: 4500
+Account: 1003 | Name: Janhavi Marathi | Initial PIN: 8508
+Account: 1004 | Name: Arpita Pokle | Initial PIN: 5665
